@@ -33,7 +33,7 @@ cd langchain-falcon-chainlit
 
 4. Run the following command in your terminal to start the chat UI:
    ```
-   chainlit run app.py -w
+   chainlit run langchain_falcon.py -w
    ```
 
 ## Disclaimer
