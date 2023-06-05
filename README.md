@@ -15,7 +15,7 @@ You must have Python 3.10 or later installed. Earlier versions of Python may not
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
 ```
-https://github.com/sudarshan-koirala/langchain-falcon-chainlit.git
+git clone https://github.com/sudarshan-koirala/langchain-falcon-chainlit.git
 cd langchain-falcon-chainlit
 ```
 
