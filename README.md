@@ -2,10 +2,10 @@
 Simple Chat UI using Falcon model, LangChain and Chainlit
 
 ### Open Source in Action 🚀
-- Falcon as Large Language model
-- LangChain as Web Framework
-- Falcon model from Huggingface Website
-- Deploying using Chainlit
+- [Falcon](https://falconllm.tii.ae/) as Large Language model
+- [LangChain](https://python.langchain.com/en/latest/modules/models/llms/integrations/huggingface_hub.html) as Web Framework
+- [Falcon model](https://huggingface.co/tiiuae/falcon-7b-instruct) from Huggingface Website
+- [Chainlit](https://docs.chainlit.io/langchain) for deplpying.
 
 ## System Requirements
 
