@@ -13,6 +13,11 @@ Simple Chat UI using Falcon model, LangChain and Chainlit
 
 You must have Python 3.10 or later installed. Earlier versions of python may not compile.
 
+Create a virtualenv and activate it
+   ```
+   python3 -m venv .venv && source .venv/bin/activate
+   ```
+
 ## Steps to Replicate 
 
 1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
